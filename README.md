@@ -11,8 +11,10 @@ I am a software engineer, aspired to build products that help solving real probl
 * 🧠  I'm learning .Net Core and Microservices, Microfrontend, Devops, Deeplearning & ML
 * 🤝  I'm open to collaborating on I am open to any inspiring ideas and opportunities to help with 💁🏽
 
-<a href="https://www.github.com/salehmogren" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/github/followers/salehmogren?logo=github&style=for-the-badge&color=6366f1&labelColor=1c1917" /></a>
+<a href="https://www.twitter.com/SalehMogren" target="_blank" rel="noreferrer"><img
+src="https://img.shields.io/twitter/follow/SalehMogren?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"
+/></a><a href="https://www.github.com/salehmogren" target="_blank" rel="noreferrer"><img
+src="https://img.shields.io/github/followers/salehmogren?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
 
 ### Skills
 
@@ -41,12 +43,12 @@ src="https://img.shields.io/github/followers/salehmogren?logo=github&style=for-t
 
 ### Socials
 
-<p align="left"> <a href="https://www.github.com/salehmogren" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/Saleh-almogren" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="https://www.twitter.com/Salehmogren" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a></p>
+<p align="left"> <a href="https://www.github.com/salehmogren" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/Saleh-almogren" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="https://www.twitter.com/SalehMogren" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a></p>
 
 ### Badges
 
 <b>My GitHub Stats</b>
 
-<a href="http://www.github.com/salehmogren"><img src="https://github-readme-stats.vercel.app/api?username=salehmogren&show_icons=true&hide=&count_private=true&title_color=6366f1&text_color=ffffff&icon_color=6366f1&bg_color=1c1917&hide_border=true&show_icons=true" alt="salehmogren's GitHub stats" /></a>
+<a href="http://www.github.com/salehmogren"><img src="https://github-readme-stats.vercel.app/api?username=salehmogren&show_icons=true&hide=&count_private=true&title_color=ffffff&text_color=64748b&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="salehmogren's GitHub stats" /></a>
 
-<a href="http://www.github.com/salehmogren"><img src="https://github-readme-streak-stats.herokuapp.com/?user=salehmogren&stroke=ffffff&background=1c1917&ring=6366f1&fire=6366f1&currStreakNum=ffffff&currStreakLabel=6366f1&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+<a href="http://www.github.com/salehmogren"><img src="https://github-readme-streak-stats.herokuapp.com/?user=salehmogren&stroke=64748b&background=1c1917&ring=ffffff&fire=ffffff&currStreakNum=64748b&currStreakLabel=ffffff&sideNums=64748b&sideLabels=64748b&dates=64748b&hide_border=true" /></a>
