@@ -7,6 +7,8 @@ Full Stack | Product
 I am a software engineer, aspired to build products that help solving real problems ( I also love to build fun projects 😜).
 
 * 🌍  I'm based in Riyadh, Saudi Arabia 🇸🇦
+* 🖥️  See my portfolio at [Projects](http://salehmogren.com/projects)
+* 🚀  I'm currently working on [Farmer Lens](http://https://github.com/SalehMogren/Farmer_Lens)
 * ✉️  You can contact me at [salehalmogren@gmail.com](mailto:salehalmogren@gmail.com )
 * 🧠  I'm learning .Net Core and Microservices, Microfrontend, Devops, Deeplearning & ML
 * 🤝  I'm open to collaborating on I am open to any inspiring ideas and opportunities to help with 💁🏽
